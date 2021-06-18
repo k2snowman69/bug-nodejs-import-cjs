@@ -28,6 +28,12 @@ Just run node and then one of the use-lib files. For example:
 - node .\use-lib\use-factory.js
 - node .\use-lib\use-function.js
 
+The following are examples of real world projects that would be amazing if they worked
+
+- node .\use-lib\use-glob.js
+- node .\use-lib\use-enzyme.js
+- node .\use-lib\use-tslib.js
+
 This was originally tested with node v14.17.1
 
 # Expectation
